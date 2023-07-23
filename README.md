@@ -14,6 +14,7 @@ Here, we will inspect our data for
 ## Summary Statistics:-
 Using summary statistics to understand the scope, scale, and shape of the dataset.
 >[Statistics in Python with Scipy Lecture notes](https://scipy-lectures.org/packages/statistics/index.html)
+
 >[Outlier detection in ML](https://scikit-learn.org/stable/auto_examples/applications/plot_outlier_detection_wine.html#sphx-glr-auto-examples-applications-plot-outlier-detection-wine-py)
 
 ## Data Visualization:-

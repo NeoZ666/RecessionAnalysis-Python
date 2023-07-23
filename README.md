@@ -9,7 +9,7 @@ This will include Government and Corporate Data backed with data from Independen
 Here, we will inspect our data for 
 >Outliers
 >Missing or Incomplete values
->Data that needs to be transformed or preprocessed so it's in the correct format to be used by your model
+>Data that needs to be transformed or preprocessed so it's in the correct format to be used by the model
 
 ## Summary Statistics:-
 Using summary statistics to understand the scope, scale, and shape of the dataset.

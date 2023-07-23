@@ -20,7 +20,7 @@ Using summary statistics to understand the scope, scale, and shape of the datase
 ## Data Visualization:-
 Using data visualization to see outliers and trends in our data and to help stakeholders understand the data. In this case, we will make logical sense of various Financial Statistics and their relevance to our model and how it's convergent to our findings.
 
-![Data Cycle](Data-analysis-cycle.png)
+![Data Cycle](Assets/Data-analysis-cycle.png)
 
 ## Model Building:-
 We will use ML to give out predictions based on our data. 
